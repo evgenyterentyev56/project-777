@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a33397b3-17e1-4519-84b4-266e377d80e3" name="Default Changelist" comment="2й коммит">
-      <change afterPath="$PROJECT_DIR$/Testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a33397b3-17e1-4519-84b4-266e377d80e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/book_26.04.2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_26.04.2020.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Python.Testing">
@@ -111,7 +111,28 @@
       <option name="project" value="LOCAL" />
       <updated>1587855221178</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="эксперементируем">
+      <created>1587856288479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587856288479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="эксперементируем">
+      <created>1587856314305</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587856314305</updated>
+    </task>
+    <task id="LOCAL-00004" summary="эксперементируем 22">
+      <created>1587856499452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587856499452</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,25 +148,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2й коммит" />
-    <option name="LAST_COMMIT_MESSAGE" value="2й коммит" />
+    <MESSAGE value="эксперементируем" />
+    <MESSAGE value="эксперементируем 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="эксперементируем 22" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1657" height="249" key="GridCell.Tab.0.bottom" timestamp="1587856195639">
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1587856499243">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="249" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1587856195639" />
-    <state width="1657" height="249" key="GridCell.Tab.0.center" timestamp="1587856195638">
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1587856499243" />
+    <state width="1657" height="249" key="GridCell.Tab.0.bottom" timestamp="1587857144489">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="249" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1587856195638" />
-    <state width="1657" height="249" key="GridCell.Tab.0.left" timestamp="1587856195636">
+    <state width="1657" height="249" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1587857144489" />
+    <state width="1657" height="249" key="GridCell.Tab.0.center" timestamp="1587857144487">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="249" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1587856195636" />
-    <state width="1657" height="249" key="GridCell.Tab.0.right" timestamp="1587856195638">
+    <state width="1657" height="249" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1587857144486" />
+    <state width="1657" height="249" key="GridCell.Tab.0.left" timestamp="1587857144485">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="249" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1587856195638" />
+    <state width="1657" height="249" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1587857144485" />
+    <state width="1657" height="249" key="GridCell.Tab.0.right" timestamp="1587857144488">
+      <screen x="0" y="27" width="1680" height="973" />
+    </state>
+    <state width="1657" height="249" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1587857144488" />
     <state x="600" y="197" width="470" height="640" key="RollbackChangesDialog" timestamp="1587855904820">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
@@ -154,5 +181,9 @@
       <screen x="0" y="27" width="1680" height="973" />
     </state>
     <state x="329" y="148" width="1022" height="737" key="SettingsEditor/0.27.1680.973@0.27.1680.973" timestamp="1587855059098" />
+    <state x="435" y="249" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1587856524591">
+      <screen x="0" y="27" width="1680" height="973" />
+    </state>
+    <state x="435" y="249" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1680.973@0.27.1680.973" timestamp="1587856524591" />
   </component>
 </project>
