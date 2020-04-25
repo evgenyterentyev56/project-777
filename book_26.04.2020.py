@@ -7,3 +7,5 @@ name = "Evgeny"
 
 print(" Привет " + name + "!")
 print(" Тебе уже " + str(age) + " лет!")
+
+
