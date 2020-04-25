@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a33397b3-17e1-4519-84b4-266e377d80e3" name="Default Changelist" comment="2й коммит" />
+    <list default="true" id="a33397b3-17e1-4519-84b4-266e377d80e3" name="Default Changelist" comment="2й коммит">
+      <change afterPath="$PROJECT_DIR$/Testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_26.04.2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/book_26.04.2020.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +31,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b3HH69mX3Q1frxjHhHZjze6eiv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,7 +43,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Testing">
+    <configuration name="Testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project-777" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="book_26.04.2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project-777" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Testing" />
         <item itemvalue="Python.book_26.04.2020" />
       </list>
     </recent_temporary>
@@ -102,22 +130,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="2й коммит" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1657" height="249" key="GridCell.Tab.0.bottom" timestamp="1587854364752">
+    <state width="1657" height="249" key="GridCell.Tab.0.bottom" timestamp="1587856195639">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="249" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1587854364752" />
-    <state width="1657" height="249" key="GridCell.Tab.0.center" timestamp="1587854364750">
+    <state width="1657" height="249" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1587856195639" />
+    <state width="1657" height="249" key="GridCell.Tab.0.center" timestamp="1587856195638">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="249" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1587854364750" />
-    <state width="1657" height="249" key="GridCell.Tab.0.left" timestamp="1587854364749">
+    <state width="1657" height="249" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1587856195638" />
+    <state width="1657" height="249" key="GridCell.Tab.0.left" timestamp="1587856195636">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="249" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1587854364749" />
-    <state width="1657" height="249" key="GridCell.Tab.0.right" timestamp="1587854364751">
+    <state width="1657" height="249" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1587856195636" />
+    <state width="1657" height="249" key="GridCell.Tab.0.right" timestamp="1587856195638">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="249" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1587854364751" />
+    <state width="1657" height="249" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1587856195638" />
+    <state x="600" y="197" width="470" height="640" key="RollbackChangesDialog" timestamp="1587855904820">
+      <screen x="0" y="27" width="1680" height="973" />
+    </state>
+    <state x="600" y="197" width="470" height="640" key="RollbackChangesDialog/0.27.1680.973@0.27.1680.973" timestamp="1587855904820" />
     <state x="329" y="148" width="1022" height="737" key="SettingsEditor" timestamp="1587855059098">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
