@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a33397b3-17e1-4519-84b4-266e377d80e3" name="Default Changelist" comment="" />
+    <list default="true" id="a33397b3-17e1-4519-84b4-266e377d80e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,7 +196,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Calculator_branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -215,26 +229,26 @@
       <screen x="0" y="27" width="1680" height="973" />
     </state>
     <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1587862821420" />
-    <state x="100" y="127" width="1480" height="773" key="DiffContextDialog" timestamp="1587857716029">
+    <state x="100" y="127" width="1480" height="773" key="DiffContextDialog" timestamp="1587898761587">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state x="100" y="127" width="1480" height="773" key="DiffContextDialog/0.27.1680.973@0.27.1680.973" timestamp="1587857716029" />
-    <state width="1657" height="154" key="GridCell.Tab.0.bottom" timestamp="1587862885647">
+    <state x="100" y="127" width="1480" height="773" key="DiffContextDialog/0.27.1680.973@0.27.1680.973" timestamp="1587898761587" />
+    <state width="1657" height="154" key="GridCell.Tab.0.bottom" timestamp="1587898548364">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="154" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1587862885647" />
-    <state width="1657" height="154" key="GridCell.Tab.0.center" timestamp="1587862885646">
+    <state width="1657" height="154" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1587898548364" />
+    <state width="1657" height="154" key="GridCell.Tab.0.center" timestamp="1587898548362">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="154" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1587862885646" />
-    <state width="1657" height="154" key="GridCell.Tab.0.left" timestamp="1587862885646">
+    <state width="1657" height="154" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1587898548362" />
+    <state width="1657" height="154" key="GridCell.Tab.0.left" timestamp="1587898548361">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="154" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1587862885646" />
-    <state width="1657" height="154" key="GridCell.Tab.0.right" timestamp="1587862885646">
+    <state width="1657" height="154" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1587898548361" />
+    <state width="1657" height="154" key="GridCell.Tab.0.right" timestamp="1587898548363">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="154" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1587862885646" />
+    <state width="1657" height="154" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1587898548363" />
     <state x="600" y="197" width="470" height="640" key="RollbackChangesDialog" timestamp="1587855904820">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
