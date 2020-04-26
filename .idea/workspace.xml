@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587858381951</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Калькулятор общая версия_26.04.2020 (04:53)">
+      <created>1587862433707</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587862433707</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,13 +187,14 @@
     <MESSAGE value="эксперементируем 22" />
     <MESSAGE value="Продолжаем тестить код" />
     <MESSAGE value="округление" />
-    <option name="LAST_COMMIT_MESSAGE" value="округление" />
+    <MESSAGE value="Калькулятор общая версия_26.04.2020 (04:53)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Калькулятор общая версия_26.04.2020 (04:53)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1587858381771">
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1587862433538">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1587858381771" />
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1587862433538" />
     <state x="100" y="127" width="1480" height="773" key="DiffContextDialog" timestamp="1587857716029">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
