@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a33397b3-17e1-4519-84b4-266e377d80e3" name="Default Changelist" comment="" />
+    <list default="true" id="a33397b3-17e1-4519-84b4-266e377d80e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,7 +217,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587903619183</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Калькулятор ветка версия_26.04.2020 (16:20)&#10;Добавлен цвет - v1.1.1 TAG">
+      <created>1587903705926</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587903705926</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Калькулятор ветка версия_26.04.2020 (16:20) - перенесен на новый файл">
+      <created>1587903826182</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587903826182</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,13 +269,15 @@
     <MESSAGE value="Калькулятор ветка версия_26.04.2020 (16:06)&#10;Добавлен цвет - колорама" />
     <MESSAGE value="Калькулятор ветка версия_26.04.2020 (16:10)&#10;Добавлен цвет - колорама" />
     <MESSAGE value="Калькулятор ветка версия_26.04.2020 (16:20)&#10;Добавлен цвет - колорама" />
-    <option name="LAST_COMMIT_MESSAGE" value="Калькулятор ветка версия_26.04.2020 (16:20)&#10;Добавлен цвет - колорама" />
+    <MESSAGE value="Калькулятор ветка версия_26.04.2020 (16:20)&#10;Добавлен цвет - v1.1.1 TAG" />
+    <MESSAGE value="Калькулятор ветка версия_26.04.2020 (16:20) - перенесен на новый файл" />
+    <option name="LAST_COMMIT_MESSAGE" value="Калькулятор ветка версия_26.04.2020 (16:20) - перенесен на новый файл" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1587903618978">
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1587903826037">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1587903618978" />
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1587903826037" />
     <state x="100" y="127" width="1480" height="773" key="DiffContextDialog" timestamp="1587898761587">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
@@ -267,22 +286,22 @@
       <screen x="0" y="27" width="1680" height="973" />
     </state>
     <state x="623" y="274" width="424" height="491" key="FileChooserDialogImpl/0.27.1680.973@0.27.1680.973" timestamp="1587901055960" />
-    <state width="828" height="325" key="GridCell.Tab.0.bottom" timestamp="1587903641129">
+    <state width="1657" height="325" key="GridCell.Tab.0.bottom" timestamp="1588095538876">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="828" height="325" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1587903641129" />
-    <state width="828" height="325" key="GridCell.Tab.0.center" timestamp="1587903641127">
+    <state width="1657" height="325" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1588095538876" />
+    <state width="1657" height="325" key="GridCell.Tab.0.center" timestamp="1588095538874">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="828" height="325" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1587903641127" />
-    <state width="828" height="325" key="GridCell.Tab.0.left" timestamp="1587903641125">
+    <state width="1657" height="325" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1588095538874" />
+    <state width="1657" height="325" key="GridCell.Tab.0.left" timestamp="1588095538873">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="828" height="325" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1587903641125" />
-    <state width="828" height="325" key="GridCell.Tab.0.right" timestamp="1587903641128">
+    <state width="1657" height="325" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1588095538873" />
+    <state width="1657" height="325" key="GridCell.Tab.0.right" timestamp="1588095538875">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="828" height="325" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1587903641128" />
+    <state width="1657" height="325" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1588095538875" />
     <state x="600" y="197" width="470" height="640" key="RollbackChangesDialog" timestamp="1587901642910">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
@@ -291,9 +310,9 @@
       <screen x="0" y="27" width="1680" height="973" />
     </state>
     <state x="329" y="148" width="1022" height="737" key="SettingsEditor/0.27.1680.973@0.27.1680.973" timestamp="1587903351404" />
-    <state x="435" y="249" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1587903637248">
+    <state x="435" y="249" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1588095610954">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state x="435" y="249" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1680.973@0.27.1680.973" timestamp="1587903637248" />
+    <state x="435" y="249" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1680.973@0.27.1680.973" timestamp="1588095610954" />
   </component>
 </project>
