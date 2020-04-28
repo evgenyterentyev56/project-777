@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587903826182</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Определитель крутоски по размеру пениса...v1.0.0_(28.04.2020)_(21:39).">
+      <created>1588095630055</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1588095630055</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,13 +278,18 @@
     <MESSAGE value="Калькулятор ветка версия_26.04.2020 (16:20)&#10;Добавлен цвет - колорама" />
     <MESSAGE value="Калькулятор ветка версия_26.04.2020 (16:20)&#10;Добавлен цвет - v1.1.1 TAG" />
     <MESSAGE value="Калькулятор ветка версия_26.04.2020 (16:20) - перенесен на новый файл" />
-    <option name="LAST_COMMIT_MESSAGE" value="Калькулятор ветка версия_26.04.2020 (16:20) - перенесен на новый файл" />
+    <MESSAGE value="Определитель крутоски по размеру пениса...v1.0.0_(28.04.2020)_(21:39)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Определитель крутоски по размеру пениса...v1.0.0_(28.04.2020)_(21:39)." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1587903826037">
+    <state x="469" y="195" width="732" height="644" key="#Inspections" timestamp="1588103658672">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1587903826037" />
+    <state x="469" y="195" width="732" height="644" key="#Inspections/0.27.1680.973@0.27.1680.973" timestamp="1588103658672" />
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1588095629710">
+      <screen x="0" y="27" width="1680" height="973" />
+    </state>
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1588095629710" />
     <state x="100" y="127" width="1480" height="773" key="DiffContextDialog" timestamp="1587898761587">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
@@ -286,22 +298,38 @@
       <screen x="0" y="27" width="1680" height="973" />
     </state>
     <state x="623" y="274" width="424" height="491" key="FileChooserDialogImpl/0.27.1680.973@0.27.1680.973" timestamp="1587901055960" />
-    <state width="1657" height="325" key="GridCell.Tab.0.bottom" timestamp="1588095538876">
+    <state width="1657" height="219" key="GridCell.Tab.0.bottom" timestamp="1588104827502">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="325" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1588095538876" />
-    <state width="1657" height="325" key="GridCell.Tab.0.center" timestamp="1588095538874">
+    <state width="1657" height="219" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1588104827502" />
+    <state width="1657" height="219" key="GridCell.Tab.0.center" timestamp="1588104827501">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="325" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1588095538874" />
-    <state width="1657" height="325" key="GridCell.Tab.0.left" timestamp="1588095538873">
+    <state width="1657" height="219" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1588104827501" />
+    <state width="1657" height="219" key="GridCell.Tab.0.left" timestamp="1588104827500">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="325" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1588095538873" />
-    <state width="1657" height="325" key="GridCell.Tab.0.right" timestamp="1588095538875">
+    <state width="1657" height="219" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1588104827500" />
+    <state width="1657" height="219" key="GridCell.Tab.0.right" timestamp="1588104827501">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="325" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1588095538875" />
+    <state width="1657" height="219" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1588104827501" />
+    <state width="1657" height="308" key="GridCell.Tab.1.bottom" timestamp="1588103691630">
+      <screen x="0" y="27" width="1680" height="973" />
+    </state>
+    <state width="1657" height="308" key="GridCell.Tab.1.bottom/0.27.1680.973@0.27.1680.973" timestamp="1588103691630" />
+    <state width="1657" height="308" key="GridCell.Tab.1.center" timestamp="1588103691629">
+      <screen x="0" y="27" width="1680" height="973" />
+    </state>
+    <state width="1657" height="308" key="GridCell.Tab.1.center/0.27.1680.973@0.27.1680.973" timestamp="1588103691629" />
+    <state width="1657" height="308" key="GridCell.Tab.1.left" timestamp="1588103691629">
+      <screen x="0" y="27" width="1680" height="973" />
+    </state>
+    <state width="1657" height="308" key="GridCell.Tab.1.left/0.27.1680.973@0.27.1680.973" timestamp="1588103691629" />
+    <state width="1657" height="308" key="GridCell.Tab.1.right" timestamp="1588103691630">
+      <screen x="0" y="27" width="1680" height="973" />
+    </state>
+    <state width="1657" height="308" key="GridCell.Tab.1.right/0.27.1680.973@0.27.1680.973" timestamp="1588103691630" />
     <state x="600" y="197" width="470" height="640" key="RollbackChangesDialog" timestamp="1587901642910">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
