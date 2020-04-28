@@ -10,28 +10,20 @@ print(Style.BRIGHT)
 
 
 
-what = input('Введите ваши данные, после нажатия на "Enter" ')
+print('Введите ваши данные и нажмите клавишу "Enter":')
 
-a = input("Введите ваш рост (См.)")
-b = input("Введите ваш вес (кг.)")
-c = input("Введите ваш пол (м/ж)")
+# Получаем данные от пользователя
+a = float(input("Введите ваш рост (См.)"))
+b = float(input("Введите ваш вес (кг.)"))
 
-if what == "+":
-    c = a + b
-    print(" Результат " + str(c))
+# Вычисления
+c = a * 2
+d = b / c * 100
+print("Результат " + str(d))
 
-if what == "-":
-    c = a - b
-    print(" Результат " + str(c))
+if d >= "20":
+    print("Ok")
 
-if what == "*":
-    c = a * b
-    print(" Результат " + str(c))
 
-if what == "/":
-    c = a / b
-    print(" Результат " + str(c))
-else:
-    print(Fore.YELLOW)
-    print(Back.CYAN)
-    print("WARNING!!!!")
+
+
