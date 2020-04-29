@@ -1,15 +1,4 @@
-if what == "-":
-    c = a - b
-    print(" Результат " + str(c))
 
-if what == "*":
-    c = a * b
-    print(" Результат " + str(c))
 
-if what == "/":
-    c = a / b
-    print(" Результат " + str(c))
-else:
-    print(Fore.YELLOW)
-    print(Back.CYAN)
-    print("WARNING!!!!")
+a = input(" Что делаем? (55, 66)")
+b = input(" Что делаем? (88, 99)")

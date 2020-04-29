@@ -27,7 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a33397b3-17e1-4519-84b4-266e377d80e3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BmI-Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/BmI-Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator_v1.1.1_26.04.2020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator_v1.1.1_26.04.2020.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.BmI-Calculator">
+  <component name="RunManager" selected="Python.Calculator_v1.1.1_26.04.2020">
     <configuration name="BmI-Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project-777" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +74,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BmI-Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Calculator_v1.1.1_26.04.2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project-777" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculator_v1.1.1_26.04.2020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,6 +147,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Calculator_v1.1.1_26.04.2020" />
         <item itemvalue="Python.BmI-Calculator" />
         <item itemvalue="Python.book_26.04.2020" />
       </list>
@@ -268,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588104984286</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="BMI - Calculator_v1.0.0_(29.04.2020)_(01:03).">
+      <created>1588107820632</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1588107820632</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,7 +339,8 @@
     <MESSAGE value="Калькулятор ветка версия_26.04.2020 (16:20) - перенесен на новый файл" />
     <MESSAGE value="Определитель крутоски по размеру пениса...v1.0.0_(28.04.2020)_(21:39)." />
     <MESSAGE value="BMI - Calculator_v1.0.0_(29.04.2020)_(00:16)." />
-    <option name="LAST_COMMIT_MESSAGE" value="BMI - Calculator_v1.0.0_(29.04.2020)_(00:16)." />
+    <MESSAGE value="BMI - Calculator_v1.0.0_(29.04.2020)_(01:03)." />
+    <option name="LAST_COMMIT_MESSAGE" value="BMI - Calculator_v1.0.0_(29.04.2020)_(01:03)." />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="195" width="732" height="644" key="#Inspections" timestamp="1588103658672">
@@ -321,10 +351,10 @@
       <screen x="0" y="27" width="1680" height="973" />
     </state>
     <state x="298" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1680.973@0.27.1680.973" timestamp="1588105158133" />
-    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1588104984044">
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1588107820406">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1588104984044" />
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1588107820406" />
     <state x="100" y="127" width="1480" height="773" key="DiffContextDialog" timestamp="1587898761587">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
@@ -333,38 +363,38 @@
       <screen x="0" y="27" width="1680" height="973" />
     </state>
     <state x="623" y="274" width="424" height="491" key="FileChooserDialogImpl/0.27.1680.973@0.27.1680.973" timestamp="1587901055960" />
-    <state width="1657" height="219" key="GridCell.Tab.0.bottom" timestamp="1588107499919">
+    <state width="1657" height="219" key="GridCell.Tab.0.bottom" timestamp="1588190109918">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="219" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1588107499919" />
-    <state width="1657" height="219" key="GridCell.Tab.0.center" timestamp="1588107499914">
+    <state width="1657" height="219" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1588190109918" />
+    <state width="1657" height="219" key="GridCell.Tab.0.center" timestamp="1588190109916">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="219" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1588107499914" />
-    <state width="1657" height="219" key="GridCell.Tab.0.left" timestamp="1588107499914">
+    <state width="1657" height="219" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1588190109916" />
+    <state width="1657" height="219" key="GridCell.Tab.0.left" timestamp="1588190109915">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="219" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1588107499914" />
-    <state width="1657" height="219" key="GridCell.Tab.0.right" timestamp="1588107499914">
+    <state width="1657" height="219" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1588190109915" />
+    <state width="1657" height="219" key="GridCell.Tab.0.right" timestamp="1588190109917">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="219" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1588107499914" />
-    <state width="1657" height="308" key="GridCell.Tab.1.bottom" timestamp="1588103691630">
+    <state width="1657" height="219" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1588190109917" />
+    <state width="1657" height="308" key="GridCell.Tab.1.bottom" timestamp="1588107845503">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="308" key="GridCell.Tab.1.bottom/0.27.1680.973@0.27.1680.973" timestamp="1588103691630" />
-    <state width="1657" height="308" key="GridCell.Tab.1.center" timestamp="1588103691629">
+    <state width="1657" height="308" key="GridCell.Tab.1.bottom/0.27.1680.973@0.27.1680.973" timestamp="1588107845503" />
+    <state width="1657" height="308" key="GridCell.Tab.1.center" timestamp="1588107845502">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="308" key="GridCell.Tab.1.center/0.27.1680.973@0.27.1680.973" timestamp="1588103691629" />
-    <state width="1657" height="308" key="GridCell.Tab.1.left" timestamp="1588103691629">
+    <state width="1657" height="308" key="GridCell.Tab.1.center/0.27.1680.973@0.27.1680.973" timestamp="1588107845502" />
+    <state width="1657" height="308" key="GridCell.Tab.1.left" timestamp="1588107845502">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="308" key="GridCell.Tab.1.left/0.27.1680.973@0.27.1680.973" timestamp="1588103691629" />
-    <state width="1657" height="308" key="GridCell.Tab.1.right" timestamp="1588103691630">
+    <state width="1657" height="308" key="GridCell.Tab.1.left/0.27.1680.973@0.27.1680.973" timestamp="1588107845502" />
+    <state width="1657" height="308" key="GridCell.Tab.1.right" timestamp="1588107845502">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="308" key="GridCell.Tab.1.right/0.27.1680.973@0.27.1680.973" timestamp="1588103691630" />
+    <state width="1657" height="308" key="GridCell.Tab.1.right/0.27.1680.973@0.27.1680.973" timestamp="1588107845502" />
     <state x="600" y="197" width="470" height="640" key="RollbackChangesDialog" timestamp="1587901642910">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
@@ -373,9 +403,9 @@
       <screen x="0" y="27" width="1680" height="973" />
     </state>
     <state x="329" y="148" width="1022" height="737" key="SettingsEditor/0.27.1680.973@0.27.1680.973" timestamp="1587903351404" />
-    <state x="435" y="249" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1588104994080">
+    <state x="435" y="249" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1588107824484">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state x="435" y="249" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1680.973@0.27.1680.973" timestamp="1588104994080" />
+    <state x="435" y="249" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1680.973@0.27.1680.973" timestamp="1588107824484" />
   </component>
 </project>
