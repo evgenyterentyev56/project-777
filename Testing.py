@@ -1,15 +1,9 @@
 
 
-print('Введите ваши данные:')
+import telebot
 
-# Получаем данные от пользователя
-# a = input("Введите ваш пол (м/ж)")
-b = float(input("Введите ваш рост (м./Прим. 1,72)"))
-c = float(input("Введите ваш вес (кг.)"))
+bot = telebot.TeleBot("1253507210:AAFN8nyYPEKZhhU4JjTfFgID8cnVWAvr5rU")
 
-
-
-# Вычисления
-bmi = c / b ** 2
-print(" Результат " + str(round(bmi)))
-
+@bot.message_handler(content_types=['text'])
+def send_echo(message):
+	bot.reply_to(message, message.text)
