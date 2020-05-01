@@ -26,6 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a33397b3-17e1-4519-84b4-266e377d80e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Testing" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project-777" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +132,12 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testing.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -166,6 +167,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Testing" />
         <item itemvalue="Python.Meteo-v1" />
         <item itemvalue="Python.BmI-Calculator" />
         <item itemvalue="Python.Calculator_v1.1.1_26.04.2020" />
@@ -352,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588252069094</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Метео-v1_v1.0.0_(30.04.2020)_(16:30).">
+      <created>1588252383460</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1588252383460</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,10 +418,10 @@
       <screen x="0" y="27" width="1680" height="973" />
     </state>
     <state x="298" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1680.973@0.27.1680.973" timestamp="1588105158133" />
-    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1588252068866">
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2" timestamp="1588252383195">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1588252068866" />
+    <state x="379" y="61" width="912" height="911" key="CommitChangelistDialog2/0.27.1680.973@0.27.1680.973" timestamp="1588252383195" />
     <state x="100" y="127" width="1480" height="773" key="DiffContextDialog" timestamp="1587898761587">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
@@ -421,22 +430,22 @@
       <screen x="0" y="27" width="1680" height="973" />
     </state>
     <state x="623" y="274" width="495" height="491" key="FileChooserDialogImpl/0.27.1680.973@0.27.1680.973" timestamp="1588248981684" />
-    <state width="1657" height="218" key="GridCell.Tab.0.bottom" timestamp="1588252139427">
+    <state width="1657" height="218" key="GridCell.Tab.0.bottom" timestamp="1588255195516">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="218" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1588252139427" />
-    <state width="1657" height="218" key="GridCell.Tab.0.center" timestamp="1588252139425">
+    <state width="1657" height="218" key="GridCell.Tab.0.bottom/0.27.1680.973@0.27.1680.973" timestamp="1588255195516" />
+    <state width="1657" height="218" key="GridCell.Tab.0.center" timestamp="1588255195514">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="218" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1588252139425" />
-    <state width="1657" height="218" key="GridCell.Tab.0.left" timestamp="1588252139423">
+    <state width="1657" height="218" key="GridCell.Tab.0.center/0.27.1680.973@0.27.1680.973" timestamp="1588255195514" />
+    <state width="1657" height="218" key="GridCell.Tab.0.left" timestamp="1588255195513">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="218" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1588252139423" />
-    <state width="1657" height="218" key="GridCell.Tab.0.right" timestamp="1588252139426">
+    <state width="1657" height="218" key="GridCell.Tab.0.left/0.27.1680.973@0.27.1680.973" timestamp="1588255195513" />
+    <state width="1657" height="218" key="GridCell.Tab.0.right" timestamp="1588255195515">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
-    <state width="1657" height="218" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1588252139426" />
+    <state width="1657" height="218" key="GridCell.Tab.0.right/0.27.1680.973@0.27.1680.973" timestamp="1588255195515" />
     <state width="1657" height="308" key="GridCell.Tab.1.bottom" timestamp="1588107845503">
       <screen x="0" y="27" width="1680" height="973" />
     </state>
