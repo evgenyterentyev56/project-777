@@ -1,4 +1,25 @@
 
 
-age = 27
-print(age)
+
+a =input("you age")
+
+a = float(a) + 2
+
+print(a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
