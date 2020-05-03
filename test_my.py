@@ -1,11 +1,42 @@
 
 
 
-a =input("you age")
+def print_spam():
+    print_spam('spam')
+    print_spam('spam')
+    print_spam('spam')
 
-a = float(a) + 2
 
-print(a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
